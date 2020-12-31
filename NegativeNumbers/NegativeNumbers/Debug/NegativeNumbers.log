@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Tarek\Documents\Projects\NegativeNumbers\NegativeNumbers\main.c(10,46): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\Tarek\Documents\Projects\NegativeNumbers\NegativeNumbers\main.c(10,38): warning C4024: 'Check_Negative_Numbers': different types for formal and actual parameter 1
+  NegativeNumbers.vcxproj -> C:\Users\Tarek\Documents\Projects\NegativeNumbers\Debug\NegativeNumbers.exe
